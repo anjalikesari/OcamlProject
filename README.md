@@ -2,7 +2,7 @@
 
 Hello! Welcome to TAPS! This is our data management system for songs
 
-Authors: Prisha Singhal Shefali Awasthi Teg Singh Anjali Kesari
+Authors: Prisha Singhal, Shefali Awasthi, Teg Singh, Anjali Kesari
 
 Acknowledgements:
 
