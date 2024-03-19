@@ -1,13 +1,13 @@
 # ocaml-project
 
 Hello! Welcome to TAPS!
-This is our data management system for songs, and final project for CS 3110.
+This is our data management system for songs
 
 Authors:
-Prisha Singhal (ps863)
-Shefali Awasthi (sa867)
-Teg Singh (ts647)
-Anjali Kesari (ak2239)
+Prisha Singhal
+Shefali Awasthi 
+Teg Singh 
+Anjali Kesari
 
 
 Acknowledgements:
